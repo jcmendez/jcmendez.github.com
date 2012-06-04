@@ -72,3 +72,5 @@ a:hover, a:focus {color: #000;}
 /* Content links in dark context */
 .dark a, .dark a:visited {color:#37b1ff;}
 .dark a:hover, .dark a:focus {color: #fff;}
+
+.right_aligned {text-align: right;}
